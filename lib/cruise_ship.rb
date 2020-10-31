@@ -9,6 +9,10 @@
 
 
 def select_winner(passengers)
+  #iterate over each hash pair, need to select a person in key suite_a that starts with value "A"
+  passengers.each do |suite, passenger|
+    if suite == 
+  end
 end
 
 
