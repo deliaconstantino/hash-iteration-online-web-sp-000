@@ -18,6 +18,7 @@ def age_appropriate_birthday(bday_hash)
       puts "Happy Birthday #{name}! You are now #{age} years old!"
     else
       puts "You are too old for this."
+    end
 end
 
 
