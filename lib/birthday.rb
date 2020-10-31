@@ -12,7 +12,8 @@ def happy_birthday(birthday_kids)
   end
 end
 
-def age_appropriate_birthday
+def age_appropriate_birthday(bday_hash)
+  bday
 end
 
 
